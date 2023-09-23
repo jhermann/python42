@@ -30,6 +30,6 @@ QA / Security:
  * ruff?
 
 Documentation:
- * A single READNE for small projects (little tools)
+ * A single README for small projects (little tools)
  * Sphinx otherwise
  * Maybe mkdoc for something 'in the middle'
